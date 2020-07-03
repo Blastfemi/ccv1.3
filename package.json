@@ -26,14 +26,14 @@
     "onchange": "^7.0.2",
     "parallelshell": "^3.0.1",
     "rimraf": "^2.6.2",
-    "usemin-cli": "^0.5.1",
-    "clean-css": ">=4.1.11"
+    "usemin-cli": "^0.5.1"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "clean-css": ">=4.1.11"
   }
 }
