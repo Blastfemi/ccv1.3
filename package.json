@@ -26,7 +26,8 @@
     "onchange": "^7.0.2",
     "parallelshell": "^3.0.1",
     "rimraf": "^2.6.2",
-    "usemin-cli": "^0.5.1"
+    "usemin-cli": "^0.5.1",
+    "clean-css": ">=4.1.11"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
