@@ -19,6 +19,7 @@
   "author": "Alley Purcell",
   "license": "ISC",
   "devDependencies": {
+    "clean-css": "^4.2.3",
     "copyfiles": "^2.0.0",
     "imagemin-cli": "^6.0.0",
     "lite-server": "^2.5.4",
@@ -33,7 +34,6 @@
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1",
-    "clean-css": ">=4.1.11"
+    "popper.js": "^1.16.1"
   }
 }
